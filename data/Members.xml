@@ -1,0 +1,273 @@
+<member>
+  <memberCode>M001</memberCode>
+  <memberType>G</memberType>
+  <primaryContact>
+    <personCode>iH58gd</personCode>
+    <firstName>Caryn</firstName>
+    <lastName>Beach</lastName>
+    <address>
+      <street>1609 Chatham Way</street>
+      <city>Washington</city>
+      <state>MD</state>
+      <zip>20005</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <string>carolyn2000@hotmail.com</string>
+      <string>cbeach23@gmail.com</string>
+    </emails>
+  </primaryContact>
+  <memberName>Kompooter Vizards</memberName>
+  <memberAddress>
+    <street>1337 Electron Rd</street>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>94016</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>M002</memberCode>
+  <memberType>S</memberType>
+  <primaryContact>
+    <personCode>PrHUtx</personCode>
+    <firstName>Bernard</firstName>
+    <lastName>Colby</lastName>
+    <address>
+      <street>2652 Ashmor Drive</street>
+      <city>Taylor</city>
+      <state>MN</state>
+      <zip>55746</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <string>dashawn1991@hotmail.com</string>
+    </emails>
+  </primaryContact>
+  <memberName>Buff Humans LTD</memberName>
+  <memberAddress>
+    <street>2652 Stronk Drive</street>
+    <city>Minneapolis</city>
+    <state>MN</state>
+    <zip>55111</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>M003</memberCode>
+  <memberType>G</memberType>
+  <primaryContact>
+    <personCode>Ivvjwe</personCode>
+    <firstName>Kay</firstName>
+    <lastName>Brousseau</lastName>
+    <address>
+      <street>2801 American Drive</street>
+      <city>Tallahassee</city>
+      <state>FL</state>
+      <zip>32301</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <string>afton2005@yahoo.com</string>
+    </emails>
+  </primaryContact>
+  <memberName>Meinkraft Nurds</memberName>
+  <memberAddress>
+    <street>4454 S Notch St</street>
+    <city>Tallahassee</city>
+    <state>FL</state>
+    <zip>32301</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>M004</memberCode>
+  <memberType>G</memberType>
+  <primaryContact>
+    <personCode>W34O5c</personCode>
+    <firstName>Alexander</firstName>
+    <lastName>Ferrin</lastName>
+    <address>
+      <street>1187 Broadway Avenue</street>
+      <city>Johnson City</city>
+      <state>TN</state>
+      <zip>37601</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <string>betsy_boyl0@gmail.com</string>
+    </emails>
+  </primaryContact>
+  <memberName>Ferrinwood Corp</memberName>
+  <memberAddress>
+    <street>1227 McFar Ln</street>
+    <city>Johnson City</city>
+    <state>TN</state>
+    <zip>37601</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>M005</memberCode>
+  <memberType>S</memberType>
+  <primaryContact>
+    <personCode>sW1Gbe</personCode>
+    <firstName>Diana</firstName>
+    <lastName>Bilbo</lastName>
+    <address>
+      <street>1798 Brentwood Drive</street>
+      <city>Austin</city>
+      <state>TX</state>
+      <zip>78753</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <string>avery_breitenbe@gmail.com</string>
+      <string>katrina_hean@hotmail.com</string>
+    </emails>
+  </primaryContact>
+  <memberName>Diana Bilbo</memberName>
+  <memberAddress>
+    <street>1798 Brentwood Drive</street>
+    <city>Austin</city>
+    <state>TX</state>
+    <zip>78753</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>M006</memberCode>
+  <memberType>G</memberType>
+  <primaryContact>
+    <personCode>E8lwRl</personCode>
+    <firstName>Annalisa</firstName>
+    <lastName>Bartlett</lastName>
+    <address>
+      <street>4320 Overlook Drive</street>
+      <city>Indianapolis</city>
+      <state>IN</state>
+      <zip>46225</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <string>columbus_reil@hotmail.com</string>
+    </emails>
+  </primaryContact>
+  <memberName>Annalisa Bartlett</memberName>
+  <memberAddress>
+    <street>4320 Overlook Drive</street>
+    <city>Indianapolis</city>
+    <state>IN</state>
+    <zip>46225</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>M007</memberCode>
+  <memberType>S</memberType>
+  <primaryContact>
+    <personCode>m2hai2</personCode>
+    <firstName>Tina</firstName>
+    <lastName>Laliberte</lastName>
+    <address>
+      <street>2049 Davisson Street</street>
+      <city>Swayzee</city>
+      <state>IN</state>
+      <zip>46986</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <string>mallory1988@hotmail.com</string>
+    </emails>
+  </primaryContact>
+  <memberName>Forcept Lawn</memberName>
+  <memberAddress>
+    <street>204 S 16th St</street>
+    <city>Swayzee</city>
+    <state>IN</state>
+    <zip>46986</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>M008</memberCode>
+  <memberType>G</memberType>
+  <primaryContact>
+    <personCode>MVQBz8</personCode>
+    <firstName>Shawn</firstName>
+    <lastName>Sanchez</lastName>
+    <address>
+      <street>262 Burning Memory Lane</street>
+      <city>Philadelphia</city>
+      <state>PA</state>
+      <zip>19103</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <string>sallie.wiz6@yahoo.com</string>
+      <string>kelley.wintheis@yahoo.com</string>
+    </emails>
+  </primaryContact>
+  <memberName>Shawn Sanchez</memberName>
+  <memberAddress>
+    <street>262 Burning Memory Lane</street>
+    <city>Philadelphia</city>
+    <state>PA</state>
+    <zip>19103</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>M009</memberCode>
+  <memberType>G</memberType>
+  <primaryContact>
+    <personCode>7T7uaU</personCode>
+    <firstName>John</firstName>
+    <lastName>Young</lastName>
+    <address>
+      <street>3614 New Creek Road</street>
+      <city>Alexander City</city>
+      <state>AL</state>
+      <zip>35010</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <string>brock1974@hotmail.com</string>
+    </emails>
+  </primaryContact>
+  <memberName>John Young</memberName>
+  <memberAddress>
+    <street>3614 New Creek Road</street>
+    <city>Alexander City</city>
+    <state>AL</state>
+    <zip>35010</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>M010</memberCode>
+  <memberType>S</memberType>
+  <primaryContact>
+    <personCode>oV0sKc</personCode>
+    <firstName>Clara</firstName>
+    <lastName>Rowlett</lastName>
+    <address>
+      <street>1246 Bird Spring Lane</street>
+      <city>Houston</city>
+      <state>TX</state>
+      <zip>77032</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <string>luisa.mulle2@gmail.com</string>
+    </emails>
+  </primaryContact>
+  <memberName>Clara Rowlett</memberName>
+  <memberAddress>
+    <street>1246 Bird Spring Lane</street>
+    <city>Houston</city>
+    <state>TX</state>
+    <zip>77032</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>

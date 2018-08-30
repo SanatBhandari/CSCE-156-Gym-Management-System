@@ -1,0 +1,273 @@
+{
+  "memberCode": "M001",
+  "memberType": "G",
+  "primaryContact": {
+    "personCode": "iH58gd",
+    "firstName": "Caryn",
+    "lastName": "Beach",
+    "address": {
+      "street": "1609 Chatham Way",
+      "city": "Washington",
+      "state": "MD",
+      "zip": "20005",
+      "country": "USA"
+    },
+    "emails": [
+      "carolyn2000@hotmail.com",
+      "cbeach23@gmail.com"
+    ]
+  },
+  "memberName": "Kompooter Vizards",
+  "memberAddress": {
+    "street": "1337 Electron Rd",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94016",
+    "country": "USA"
+  }
+}
+{
+  "memberCode": "M002",
+  "memberType": "S",
+  "primaryContact": {
+    "personCode": "PrHUtx",
+    "firstName": "Bernard",
+    "lastName": "Colby",
+    "address": {
+      "street": "2652 Ashmor Drive",
+      "city": "Taylor",
+      "state": "MN",
+      "zip": "55746",
+      "country": "USA"
+    },
+    "emails": [
+      "dashawn1991@hotmail.com"
+    ]
+  },
+  "memberName": "Buff Humans LTD",
+  "memberAddress": {
+    "street": "2652 Stronk Drive",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55111",
+    "country": "USA"
+  }
+}
+{
+  "memberCode": "M003",
+  "memberType": "G",
+  "primaryContact": {
+    "personCode": "Ivvjwe",
+    "firstName": "Kay",
+    "lastName": "Brousseau",
+    "address": {
+      "street": "2801 American Drive",
+      "city": "Tallahassee",
+      "state": "FL",
+      "zip": "32301",
+      "country": "USA"
+    },
+    "emails": [
+      "afton2005@yahoo.com"
+    ]
+  },
+  "memberName": "Meinkraft Nurds",
+  "memberAddress": {
+    "street": "4454 S Notch St",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301",
+    "country": "USA"
+  }
+}
+{
+  "memberCode": "M004",
+  "memberType": "G",
+  "primaryContact": {
+    "personCode": "W34O5c",
+    "firstName": "Alexander",
+    "lastName": "Ferrin",
+    "address": {
+      "street": "1187 Broadway Avenue",
+      "city": "Johnson City",
+      "state": "TN",
+      "zip": "37601",
+      "country": "USA"
+    },
+    "emails": [
+      "betsy_boyl0@gmail.com"
+    ]
+  },
+  "memberName": "Ferrinwood Corp",
+  "memberAddress": {
+    "street": "1227 McFar Ln",
+    "city": "Johnson City",
+    "state": "TN",
+    "zip": "37601",
+    "country": "USA"
+  }
+}
+{
+  "memberCode": "M005",
+  "memberType": "S",
+  "primaryContact": {
+    "personCode": "sW1Gbe",
+    "firstName": "Diana",
+    "lastName": "Bilbo",
+    "address": {
+      "street": "1798 Brentwood Drive",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78753",
+      "country": "USA"
+    },
+    "emails": [
+      "avery_breitenbe@gmail.com",
+      "katrina_hean@hotmail.com"
+    ]
+  },
+  "memberName": "Diana Bilbo",
+  "memberAddress": {
+    "street": "1798 Brentwood Drive",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78753",
+    "country": "USA"
+  }
+}
+{
+  "memberCode": "M006",
+  "memberType": "G",
+  "primaryContact": {
+    "personCode": "E8lwRl",
+    "firstName": "Annalisa",
+    "lastName": "Bartlett",
+    "address": {
+      "street": "4320 Overlook Drive",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46225",
+      "country": "USA"
+    },
+    "emails": [
+      "columbus_reil@hotmail.com"
+    ]
+  },
+  "memberName": "Annalisa Bartlett",
+  "memberAddress": {
+    "street": "4320 Overlook Drive",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46225",
+    "country": "USA"
+  }
+}
+{
+  "memberCode": "M007",
+  "memberType": "S",
+  "primaryContact": {
+    "personCode": "m2hai2",
+    "firstName": "Tina",
+    "lastName": "Laliberte",
+    "address": {
+      "street": "2049 Davisson Street",
+      "city": "Swayzee",
+      "state": "IN",
+      "zip": "46986",
+      "country": "USA"
+    },
+    "emails": [
+      "mallory1988@hotmail.com"
+    ]
+  },
+  "memberName": "Forcept Lawn",
+  "memberAddress": {
+    "street": "204 S 16th St",
+    "city": "Swayzee",
+    "state": "IN",
+    "zip": "46986",
+    "country": "USA"
+  }
+}
+{
+  "memberCode": "M008",
+  "memberType": "G",
+  "primaryContact": {
+    "personCode": "MVQBz8",
+    "firstName": "Shawn",
+    "lastName": "Sanchez",
+    "address": {
+      "street": "262 Burning Memory Lane",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19103",
+      "country": "USA"
+    },
+    "emails": [
+      "sallie.wiz6@yahoo.com",
+      "kelley.wintheis@yahoo.com"
+    ]
+  },
+  "memberName": "Shawn Sanchez",
+  "memberAddress": {
+    "street": "262 Burning Memory Lane",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19103",
+    "country": "USA"
+  }
+}
+{
+  "memberCode": "M009",
+  "memberType": "G",
+  "primaryContact": {
+    "personCode": "7T7uaU",
+    "firstName": "John",
+    "lastName": "Young",
+    "address": {
+      "street": "3614 New Creek Road",
+      "city": "Alexander City",
+      "state": "AL",
+      "zip": "35010",
+      "country": "USA"
+    },
+    "emails": [
+      "brock1974@hotmail.com"
+    ]
+  },
+  "memberName": "John Young",
+  "memberAddress": {
+    "street": "3614 New Creek Road",
+    "city": "Alexander City",
+    "state": "AL",
+    "zip": "35010",
+    "country": "USA"
+  }
+}
+{
+  "memberCode": "M010",
+  "memberType": "S",
+  "primaryContact": {
+    "personCode": "oV0sKc",
+    "firstName": "Clara",
+    "lastName": "Rowlett",
+    "address": {
+      "street": "1246 Bird Spring Lane",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77032",
+      "country": "USA"
+    },
+    "emails": [
+      "luisa.mulle2@gmail.com"
+    ]
+  },
+  "memberName": "Clara Rowlett",
+  "memberAddress": {
+    "street": "1246 Bird Spring Lane",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77032",
+    "country": "USA"
+  }
+}

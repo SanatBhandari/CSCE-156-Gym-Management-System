@@ -1,0 +1,216 @@
+<year-pass>
+  <productCode>vEAdsp</productCode>
+  <productType>Y</productType>
+  <productCost>450.0</productCost>
+  <startDate>2018-01-13 00:00</startDate>
+  <endDate>2019-01-12 00:00</endDate>
+  <address>
+    <street>221 S R St</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68508</zip>
+    <country>USA</country>
+  </address>
+  <passName>Gold Package</passName>
+</year-pass>
+<year-pass>
+  <productCode>vMNV34</productCode>
+  <productType>Y</productType>
+  <productCost>350.0</productCost>
+  <startDate>2018-01-13 00:00</startDate>
+  <endDate>2019-01-12 00:00</endDate>
+  <address>
+    <street>221 S R St</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68508</zip>
+    <country>USA</country>
+  </address>
+  <passName>Silver Package</passName>
+</year-pass>
+<year-pass>
+  <productCode>YdhQPP</productCode>
+  <productType>Y</productType>
+  <productCost>250.0</productCost>
+  <startDate>2018-01-13 00:00</startDate>
+  <endDate>2019-01-12 00:00</endDate>
+  <address>
+    <street>221 S R St</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68508</zip>
+    <country>USA</country>
+  </address>
+  <passName>Bronze Package</passName>
+</year-pass>
+<year-pass>
+  <productCode>W07igq</productCode>
+  <productType>Y</productType>
+  <productCost>550.0</productCost>
+  <startDate>2018-01-01 00:00</startDate>
+  <endDate>2019-01-01 00:00</endDate>
+  <address>
+    <street>1463 N Stronk Ave</street>
+    <city>Lind</city>
+    <state>WA</state>
+    <zip>99341</zip>
+    <country>USA</country>
+  </address>
+  <passName>Gold Package</passName>
+</year-pass>
+<year-pass>
+  <productCode>Z2kzs2</productCode>
+  <productType>Y</productType>
+  <productCost>450.0</productCost>
+  <startDate>2018-01-01 00:00</startDate>
+  <endDate>2019-01-01 00:00</endDate>
+  <address>
+    <street>1463 N Stronk Ave</street>
+    <city>Lind</city>
+    <state>WA</state>
+    <zip>99341</zip>
+    <country>68508</country>
+  </address>
+  <passName>Silver Package</passName>
+</year-pass>
+<year-pass>
+  <productCode>jIZl3E</productCode>
+  <productType>Y</productType>
+  <productCost>350.0</productCost>
+  <startDate>2018-01-01 00:00</startDate>
+  <endDate>2019-01-01 00:00</endDate>
+  <address>
+    <street>1463 N Stronk Ave</street>
+    <city>Lind</city>
+    <state>WA</state>
+    <zip>99341</zip>
+    <country>USA</country>
+  </address>
+  <passName>Bronze Package</passName>
+</year-pass>
+<year-pass>
+  <productCode>ifEKzK</productCode>
+  <productType>Y</productType>
+  <productCost>650.0</productCost>
+  <startDate>2018-01-13 00:00</startDate>
+  <endDate>2019-01-12 00:00</endDate>
+  <address>
+    <street>144 SuperDrive Ln</street>
+    <city>Manhattan</city>
+    <state>NY</state>
+    <zip>10001</zip>
+    <country>USA</country>
+  </address>
+  <passName>SuperMan Abs in 5 Days</passName>
+</year-pass>
+<year-pass>
+  <productCode>tn3woW</productCode>
+  <productType>Y</productType>
+  <productCost>1000.0</productCost>
+  <startDate>2018-01-13 00:00</startDate>
+  <endDate>2019-01-12 00:00</endDate>
+  <address>
+    <street>1556 TooRich St</street>
+    <city>Los Angeles</city>
+    <state>CA</state>
+    <zip>90001</zip>
+    <country>USA</country>
+  </address>
+  <passName>Super-Mega-Ultra-Deluxe-Diamond Package</passName>
+</year-pass>
+<day-pass>
+  <productCode>0oBFdj</productCode>
+  <productType>D</productType>
+  <productCost>30.0</productCost>
+  <dateTime>2018-01-31 11:00</dateTime>
+  <address>
+    <street>4464 Techopolis Ave</street>
+    <city>Cedar Falls</city>
+    <state>IA</state>
+    <zip>50613</zip>
+    <country>USA</country>
+  </address>
+</day-pass>
+<day-pass>
+  <productCode>LpyJtS</productCode>
+  <productType>D</productType>
+  <productCost>15.0</productCost>
+  <dateTime>2018-01-31 16:00</dateTime>
+  <address>
+    <street>763 W NoFlabs Dr</street>
+    <city>Allen</city>
+    <state>KS</state>
+    <zip>66833</zip>
+    <country>USA</country>
+  </address>
+</day-pass>
+<day-pass>
+  <productCode>TVpLEf</productCode>
+  <productType>D</productType>
+  <productCost>20.0</productCost>
+  <dateTime>2018-01-31 16:00</dateTime>
+  <address>
+    <street>335 Farmers Rd</street>
+    <city>Omaha</city>
+    <state>NE</state>
+    <zip>68007</zip>
+    <country>USA</country>
+  </address>
+</day-pass>
+<parking-pass>
+  <productCode>99ZS7L</productCode>
+  <productType>P</productType>
+  <productCost>50.0</productCost>
+</parking-pass>
+<parking-pass>
+  <productCode>HNJtI5</productCode>
+  <productType>P</productType>
+  <productCost>30.0</productCost>
+</parking-pass>
+<parking-pass>
+  <productCode>BxojiO</productCode>
+  <productType>P</productType>
+  <productCost>15.0</productCost>
+</parking-pass>
+<rental>
+  <productCode>eXuFef</productCode>
+  <productType>R</productType>
+  <productCost>5.0</productCost>
+  <rentalName>Tennis Racket</rentalName>
+</rental>
+<rental>
+  <productCode>CniUiN</productCode>
+  <productType>R</productType>
+  <productCost>1.0</productCost>
+  <rentalName>Tennis Balls-3pk</rentalName>
+</rental>
+<rental>
+  <productCode>gR6QY0</productCode>
+  <productType>R</productType>
+  <productCost>19.99</productCost>
+  <rentalName>Cross Country Skis-Small</rentalName>
+</rental>
+<rental>
+  <productCode>0cmkFf</productCode>
+  <productType>R</productType>
+  <productCost>21.99</productCost>
+  <rentalName>Cross Country Skis-Large</rentalName>
+</rental>
+<rental>
+  <productCode>gy2PJl</productCode>
+  <productType>R</productType>
+  <productCost>3.5</productCost>
+  <rentalName>Boxing Glove-Small</rentalName>
+</rental>
+<rental>
+  <productCode>B4lIPB</productCode>
+  <productType>R</productType>
+  <productCost>3.5</productCost>
+  <rentalName>Boxing Glove-Large</rentalName>
+</rental>
+<rental>
+  <productCode>1IETNV</productCode>
+  <productType>R</productType>
+  <productCost>1.5</productCost>
+  <rentalName>Jump Rope</rentalName>
+</rental>
