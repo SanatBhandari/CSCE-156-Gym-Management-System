@@ -1,1 +1,1 @@
-# CSCE-156-Gym-Management-System
+# Gym Management System
